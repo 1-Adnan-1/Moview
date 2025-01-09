@@ -10,9 +10,9 @@ Bu site, kullanıcılara filmleri keşfetme, kategorilere göre filtreleme ve de
 - **Film Detayları:** Filme tıklandığında, film detayları bir popup penceresinde gösterilir.
 
 ## 💻 Kullanılan Teknolojiler
-**HTML**
-**CSS**
-**JAVASCRİPT**
+**HTML**: Sayfa yapısını oluşturmak için kullanıldı.  
+**CSS**: Görünüm ve tasarım için kullanıldı.  
+**JavaScript**: Dinamik özellikler için kullanıldı.
 
 ## 📷 GİF
 ![ezgif com-video-to-gif-converter (3)](https://github.com/user-attachments/assets/3376c0f4-f5e7-41cf-8e63-d11e194d82f1)
